@@ -1,0 +1,3 @@
+org\impelsys\awslambdademoapplication\requesthandler\ServiceHandler.class
+org\impelsys\awslambdademoapplication\App.class
+org\impelsys\awslambdademoapplication\config\AmazonConfig.class
